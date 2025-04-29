@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/chess.js": "^0.13.7",
+    "@types/node": "^22.15.3"
+  },
+  "dependencies": {
+    "chess.js": "^1.2.0"
+  }
+}
